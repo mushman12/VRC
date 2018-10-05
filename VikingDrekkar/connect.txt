@@ -1,0 +1,1 @@
+﻿Server=MSI\SQLEXPRESS;Initial Catalog=VRCTestDB;Integrated Security=SSPI
